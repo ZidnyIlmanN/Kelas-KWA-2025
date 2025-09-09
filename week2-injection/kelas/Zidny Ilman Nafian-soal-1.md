@@ -3,7 +3,7 @@ Pada challange pertama untuk topik injection, kita diminta untuk bisa login ke a
 
 ## Referensi
 
-Bypass Login → [YouTube Shorts][https://youtube.com/shorts/LT4JZrtrazM?si=ZiliDvZT-KVUzDU2](https://youtube.com/shorts/XSpDXLFdPZk?si=1gzAPip35bbrxQK8)
+Bypass Login → [YouTube Shorts](https://youtube.com/shorts/XSpDXLFdPZk?si=1gzAPip35bbrxQK8)
 
 ## Hasil & Bukti
 
@@ -23,6 +23,7 @@ Bypass Login → [YouTube Shorts][https://youtube.com/shorts/LT4JZrtrazM?si=Zili
    <img width="1919" height="383" alt="Screenshot 2025-09-09 171015" src="https://github.com/user-attachments/assets/bfc8ea5c-bad6-4ad0-82b7-189901269728" />
 
 * Login berhasil dibypass → akses sebagai Admin tercapai 
+
 
 
 
