@@ -13,8 +13,6 @@ Dalam challenge ini, tugas kita adalah memperoleh seluruh skema database dengan 
 ### Langkah-langkah
 Langkah awal yang dilakukan yaitu menemukan parameter pada aplikasi yang rawan terhadap SQL Injection. Pada kasus ini, fitur pencarian produk di `https://juice-shop.herokuapp.com/#/search?q=Apple` dapat dimanfaatkan karena parameter `q` terbukti memiliki celah.
 
-Mau gue bikin juga versi yang lebih **singkat & padat** biar gampang dipakai di catatan?
-
 <img width="439" height="203" alt="image" src="https://github.com/user-attachments/assets/8273b4b3-2f8f-463c-acdd-ad9d71799ddf" />
 
 1. Pada challenge ini diberikan petunjuk untuk mencari endpoint yang memiliki fungsi **filter/search**. Untuk itu, digunakan Burp Suite agar bisa menganalisis request yang lewat.
