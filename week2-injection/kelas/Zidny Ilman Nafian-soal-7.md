@@ -7,7 +7,7 @@ Dalam challenge ini, tugas kita adalah memodifikasi beberapa review produk secar
 
 ## Bukti Pengerjaan
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-11 130601" src="https://github.com/user-attachments/assets/63399292-e68c-4058-b61d-752977d9f7ae" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97add83a-137b-4702-941a-ca2b6135ecbe" />
 
 ### Langkah-langkah
 
