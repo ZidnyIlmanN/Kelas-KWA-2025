@@ -19,6 +19,7 @@ Endpoint yang digunakan juga mirip dengan sebelumnya, yaitu `/rest/products/sear
    ```sh
    http://localhost:3000/rest/products/search?q='
    ```
+   <img width="1920" height="1080" alt="Screenshot 2025-09-11 141819" src="https://github.com/user-attachments/assets/978d33d1-8848-4a8f-bffb-ae3f10dd3c29" />
 
 2. Endpoint pencarian lebih mudah dieksploitasi dibandingkan form login, sehingga kita gunakan parameter `q` untuk injection.
 
