@@ -1,4 +1,4 @@
-# README – SQL Injection Vulnerability in WHERE Clause
+# SQL Injection Vulnerability in WHERE Clause
 
 ## Deskripsi Challenge
 
@@ -53,4 +53,5 @@ Efeknya:
 Setelah menjalankan payload, aplikasi menampilkan produk tersembunyi (hidden products).
 Dengan begitu challenge dianggap **terselesaikan**.
 <img width="1919" height="961" alt="Screenshot 2025-09-11 145554" src="https://github.com/user-attachments/assets/b23e092f-2b0b-4f11-90e8-c89149ccca29" />
+
 
